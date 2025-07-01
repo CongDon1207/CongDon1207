@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CongDon1207/CongDon1207/main/header.gif" alt="header gif" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=CongDon1207&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Student&descAlignY=51&descAlign=62" />
 
 <h1 align="center">Xin chào, mình là Don&nbsp;👋</h1>
 
@@ -49,6 +47,12 @@
 _Xem thêm tại thẻ **Repositories**._
 
 ### 📊 Thống kê GitHub
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CongDon1207&theme=tokyonight&column=7" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CongDon1207&show_icons=true&theme=tokyonight" alt="stats" />
