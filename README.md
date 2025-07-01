@@ -1,28 +1,46 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CongDon1207/CongDon1207/main/header.gif" alt="header gif" />
+</p>
+
 <h1 align="center">Xin chào, mình là Don&nbsp;👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=460&lines=Data+Engineering+Student;Big+Data+Enthusiast;Open+Source+Learner" alt="typing intro" />
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=CongDon1207&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
-## 🧑‍💻 Vài nét về mình
-- 🎓 Sinh viên **Kỹ thuật Dữ liệu** xây dựng **data pipeline** & **lakehouse**.  
-- 🔭 Hiện nghiên cứu **Apache Spark · Delta Lake · Kafka · Trino · Airflow · MinIO**.  
-- 🌱 Quan tâm thêm: AI và các công nghệ mới.  
-- 📝 Ngôn ngữ ưa thích: **Python**.
+### 🧑‍💻 Vài nét về mình
 
-## 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-3178C6?style=for-the-badge&logo=trino&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 Sinh viên **Kỹ thuật Dữ liệu** chuyên xây dựng **data pipeline** & **lakehouse**.
+- 🔭 Hiện đang nghiên cứu sâu về **Apache Spark · Delta Lake · Kafka · Trino · Airflow · MinIO**.
+- 🌱 Luôn quan tâm đến **AI** và các công nghệ mới.
+- 📝 Ngôn ngữ lập trình ưa thích: **Python**.
 
-## 📂 Dự án nổi bật
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <strong>Data Engineering:</strong><br>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"></a>
+  <a href="https://trino.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trino-3178C6?style=for-the-badge&logo=trino&logoColor=white" alt="Trino"></a>
+  <br>
+  <strong>Languages & Databases:</strong><br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+  <br>
+  <strong>Tools & Platforms:</strong><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</p>
+
+### 📂 Dự án nổi bật
+
 | Project | Mô tả ngắn |
 |---------|-----------|
 | [NYC-Taxi-Lakehouse](https://github.com/CongDon1207/NYC-Taxi-Lakehouse) | Dự án Big Data Streaming mô phỏng luồng dữ liệu chuyến taxi NYC theo thời gian thực, sử dụng Kafka, Spark, Delta Lake để phân tích giờ cao điểm, khu vực nhu cầu cao, hiệu suất tài xế và hành vi đi chung xe. |
@@ -30,32 +48,28 @@
 
 _Xem thêm tại thẻ **Repositories**._
 
-## 📊 Thống kê GitHub
+### 📊 Thống kê GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CongDon1207&show_icons=true&hide_title=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongDon1207&layout=compact&hide_title=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CongDon1207&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongDon1207&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
-## 🌐 Kết nối với mình
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://github.com/CongDon1207/CongDon1207/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+### 🌐 Kết nối với mình
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
 <p align="center"><em>“Data is the new oil – refine it well!”</em></p>
-## Hi there 👋
-
-<!--
-**CongDon1207/CongDon1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
