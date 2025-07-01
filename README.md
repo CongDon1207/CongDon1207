@@ -21,25 +21,29 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <strong>Data Engineering:</strong><br>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"></a>
-  <a href="https://trino.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trino-3178C6?style=for-the-badge&logo=trino&logoColor=white" alt="Trino"></a>
-  <br>
-  <strong>Languages & Databases:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
-  <br>
-  <strong>Tools & Platforms:</strong><br>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Hive-E05D44?style=for-the-badge&logo=apachehive&logoColor=white" alt="Apache Hive"></a>
-  <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MinIO-52B03B?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"></a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop"></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-</p>
+#### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Apache Hive](https://img.shields.io/badge/Apache%20Hive-E05D44?style=for-the-badge&logo=apachehive&logoColor=white)](https://hive.apache.org/)
+
+#### Big Data & Data Engineering
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Trino](https://img.shields.io/badge/Trino-3178C6?style=for-the-badge&logo=trino&logoColor=white)](https://trino.io/)
+[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)
+[![MinIO](https://img.shields.io/badge/MinIO-52B03B?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)
+
+#### Tools & Platforms
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 ### 📂 Dự án nổi bật
 
