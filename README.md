@@ -22,19 +22,9 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <strong>Data Engineering:</strong><br>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"></a>
-  <a href="https://trino.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trino-3178C6?style=for-the-badge&logo=trino&logoColor=white" alt="Trino"></a>
-  <br>
-  <strong>Languages & Databases:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
-  <br>
-  <strong>Tools & Platforms:</strong><br>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,trino,python,mysql,docker,git&theme=tokyonight" />
+  </a>
 </p>
 
 ### 📂 Dự án nổi bật
