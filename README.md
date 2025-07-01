@@ -22,9 +22,23 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,trino,python,mysql,docker,git,hive,minio,hadoop,jupyter&theme=tokyonight" />
-  </a>
+  <strong>Data Engineering:</strong><br>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"></a>
+  <a href="https://trino.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trino-3178C6?style=for-the-badge&logo=trino&logoColor=white" alt="Trino"></a>
+  <br>
+  <strong>Languages & Databases:</strong><br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+  <br>
+  <strong>Tools & Platforms:</strong><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Hive-E05D44?style=for-the-badge&logo=apachehive&logoColor=white" alt="Apache Hive"></a>
+  <a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MinIO-52B03B?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"></a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop"></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
 </p>
 
 ### 📂 Dự án nổi bật
