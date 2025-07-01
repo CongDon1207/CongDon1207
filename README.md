@@ -7,10 +7,10 @@
 ---
 
 ## 🧑‍💻 Vài nét về mình
-- 🎓 Sinh viên **Kỹ thuật Dữ liệu** đam mê xây dựng **data pipeline** & **lakehouse** bền vững.  
+- 🎓 Sinh viên **Kỹ thuật Dữ liệu** xây dựng **data pipeline** & **lakehouse**.  
 - 🔭 Hiện nghiên cứu **Apache Spark · Delta Lake · Kafka · Trino · Airflow · MinIO**.  
-- 🌱 Quan tâm thêm: hạ tầng cloud, MLOps, hệ thống phân tán.  
-- 📝 Ngôn ngữ ưa thích: **Python · SQL · Java**.
+- 🌱 Quan tâm thêm: AI và các công nghệ mới.  
+- 📝 Ngôn ngữ ưa thích: **Python**.
 
 ## 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,9 +25,8 @@
 ## 📂 Dự án nổi bật
 | Project | Mô tả ngắn |
 |---------|-----------|
-| [Four_Connect](https://github.com/CongDon1207/Four_Connect) | Trò chơi Four-in-a-Row có AI đơn giản bằng Python. |
-| [BaitapWeb](https://github.com/CongDon1207/BaitapWeb) | Bài tập lập trình Web với Java Servlet & JSP. |
-| [DBMS_QLTho](https://github.com/CongDon1207/DBMS_QLTho) | Đồ án Hệ quản trị CSDL quản lý kho hàng. |
+| [NYC-Taxi-Lakehouse](https://github.com/CongDon1207/NYC-Taxi-Lakehouse) | Dự án Big Data Streaming mô phỏng luồng dữ liệu chuyến taxi NYC theo thời gian thực, sử dụng Kafka, Spark, Delta Lake để phân tích giờ cao điểm, khu vực nhu cầu cao, hiệu suất tài xế và hành vi đi chung xe. |
+| [UTE_BookStore](https://github.com/CongDon1207/UTE_BookStore) | UTEBookStore là dự án website bán sách trực tuyến được phát triển bằng Spring Boot. Ứng dụng cung cấp đầy đủ chức năng cho người mua, người bán và quản trị viên. |
 
 _Xem thêm tại thẻ **Repositories**._
 
