@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,trino,python,mysql,docker,git&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,trino,python,mysql,docker,git,hive,minio,hadoop,jupyter&theme=tokyonight" />
   </a>
 </p>
 
