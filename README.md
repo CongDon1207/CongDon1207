@@ -15,7 +15,7 @@
 ### 🧑‍💻 Vài nét về mình
 
 - 🎓 Sinh viên **Kỹ thuật Dữ liệu** chuyên xây dựng **data pipeline** & **lakehouse**.
-- 🔭 Hiện đang nghiên cứu sâu về **Apache Spark · Delta Lake · Kafka · Trino · Airflow · MinIO**.
+- 🔭 Hiện đang nghiên cứu sâu về **Data LLakehouse**.
 - 🌱 Luôn quan tâm đến **AI** và các công nghệ mới.
 - 📝 Ngôn ngữ lập trình ưa thích: **Python**.
 
