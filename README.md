@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=CongDon1207&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Student&descAlignY=51&descAlign=62" />
 
-<h1 align="center">Xin chào, mình là Don&nbsp;👋</h1>
+<h1 align="center">Hello, I'm Don&nbsp;👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=460&lines=Data+Engineering+Student;Big+Data+Enthusiast;Open+Source+Learner" alt="typing intro" />
@@ -12,20 +12,26 @@
 
 ---
 
-### 🧑‍💻 Vài nét về mình
+### 🧑‍💻 About Me
 
-- 🎓 Sinh viên **Kỹ thuật Dữ liệu** chuyên xây dựng **data pipeline** & **lakehouse**.
-- 🔭 Hiện đang nghiên cứu sâu về **Data LLakehouse**.
-- 🌱 Luôn quan tâm đến **AI** và các công nghệ mới.
-- 📝 Ngôn ngữ lập trình ưa thích: **Python**.
+- 🎓 **Data Engineering** student specializing in building **data pipelines** & **lakehouses**.
+- 🔭 Currently diving deep into **Data Lakehouse** research.
+- 🌱 Always interested in **AI** and new technologies.
+- 📝 Favorite programming language: **Python**.
 
 ### 🛠️ Tech Stack & Tools
 
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+#### Frontend & Frameworks
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -45,16 +51,16 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
-### 📂 Dự án nổi bật
+### 📂 Featured Projects
 
-| Project | Mô tả ngắn |
+| Project | Brief Description |
 |---------|-----------|
-| [NYC-Taxi-Lakehouse](https://github.com/CongDon1207/NYC-Taxi-Lakehouse) | Dự án Big Data Streaming mô phỏng luồng dữ liệu chuyến taxi NYC theo thời gian thực, sử dụng Kafka, Spark, Delta Lake để phân tích giờ cao điểm, khu vực nhu cầu cao, hiệu suất tài xế và hành vi đi chung xe. |
-| [UTE_BookStore](https://github.com/CongDon1207/UTE_BookStore) | UTEBookStore là dự án website bán sách trực tuyến được phát triển bằng Spring Boot. Ứng dụng cung cấp đầy đủ chức năng cho người mua, người bán và quản trị viên. |
+| [NYC-Taxi-Lakehouse](https://github.com/CongDon1207/NYC-Taxi-Lakehouse) | Big Data Streaming project simulating real-time NYC taxi data flow using Kafka, Spark, Delta Lake to analyze peak hours, high-demand areas, driver performance, and ride-sharing behavior. |
+| [UTE_BookStore](https://github.com/CongDon1207/UTE_BookStore) | UTEBookStore is an online bookstore website project developed with Spring Boot. The application provides full functionality for buyers, sellers, and administrators. |
 
-_Xem thêm tại thẻ **Repositories**._
+_View more in the **Repositories** tab._
 
-### 📊 Thống kê GitHub
+### 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -71,7 +77,7 @@ _Xem thêm tại thẻ **Repositories**._
   <img src="https://github.com/CongDon1207/CongDon1207/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-### 🌐 Kết nối với mình
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.facebook.com/don1207" target="_blank">
