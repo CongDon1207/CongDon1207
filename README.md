@@ -16,10 +16,12 @@
 
 ### 📂 Featured Projects
 
-| Project | Brief Description |
-|---------|-----------|
-| [NYC-Taxi-Lakehouse](https://github.com/CongDon1207/NYC-Taxi-Lakehouse) | Big Data Streaming project simulating real-time NYC taxi data flow using Kafka, Spark, Delta Lake to analyze peak hours, high-demand areas, driver performance, and ride-sharing behavior. |
-| [UTE_BookStore](https://github.com/CongDon1207/UTE_BookStore) | UTEBookStore is an online bookstore website project developed with Spring Boot. The application provides full functionality for buyers, sellers, and administrators. |
+| Project                                                                 | Brief Description                                                                                                                                                                                      |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [NYC-Taxi-Lakehouse](https://github.com/CongDon1207/NYC-Taxi-Lakehouse) | A Big Data streaming project that simulates real-time NYC taxi data flow using Kafka, Spark, and Delta Lake. It analyzes peak hours, high-demand zones, driver performance, and ride-sharing behavior. |
+| [UTE_BookStore](https://github.com/CongDon1207/UTE_BookStore)           | An online bookstore application built with Spring Boot. It provides complete functionality for buyers, sellers, and administrators, including product management, orders, and user accounts.           |
+| [mindvocab](https://github.com/CongDon1207/mindvocab)                   | A vocabulary learning and management app that helps users store, review, and memorize words effectively.                                                                                               |
+
 
 _View more in the **Repositories** tab._
 
